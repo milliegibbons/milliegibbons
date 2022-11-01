@@ -1,3 +1,3 @@
 👋 @milliegibbons
 
-Junior Data Scientist | MSc Artificial Intelligence Student | MSc Mathematical Finance
+Data Scientist | MSc Artificial Intelligence Student | MSc Mathematical Finance
